@@ -53,7 +53,6 @@ Each folder is further divided into subfolders representing the categories.
 
 ### 2. Model Architecture
 - A **baseline CNN** with convolutional, pooling, and dense layers for feature extraction and classification.
-- Advanced **transfer learning** approaches (e.g., ResNet50, VGG16) to leverage pre-trained models for improved accuracy.
 
 ### 3. Training and Validation
 - Binary cross-entropy loss for classification.
@@ -61,7 +60,6 @@ Each folder is further divided into subfolders representing the categories.
 
 ### 4. Evaluation
 - Metrics: Accuracy, precision, recall, F1-score, and ROC-AUC.
-- Interpretability tools like Grad-CAM for visual explanations.
 
 ---
 
@@ -70,7 +68,6 @@ Each folder is further divided into subfolders representing the categories.
 1. **Data Loading**: Load and preprocess images from training and test folders.
 2. **Model Development**: Build and train the CNN model.
 3. **Model Evaluation**: Assess performance using metrics and visualizations.
-4. **Visualization**: Use Grad-CAM to highlight regions influencing model predictions.
 
 ---
 
